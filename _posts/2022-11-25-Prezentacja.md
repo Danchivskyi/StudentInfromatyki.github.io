@@ -25,7 +25,7 @@ Hostowanie + Jekyll + Komentarze + LaTeX + Jupyter + Domena + Sklonowanie
   <img src="\assets\img\prezentacja.png" width="650" alt="prezentacja">
 </p>
 
-![prezentacja](assets\img\prezentacja.png)
+![prezentacja](https://waskiel.pl/wp-content/uploads/2019/11/pomysl-na-zdjecie-wyobraznia-i-rzemioslo.jpg.webp)
 
 
 
