@@ -22,11 +22,11 @@ Przetestowanie: GitLab, GitHub, Bitbucket
 Hostowanie + Jekyll + Komentarze + LaTeX + Jupyter + Domena + Sklonowanie
 
 <p align="center">
-  <img src="\assets\prezentacja.png" width="650" alt="prezentacja">
+  <img src="prezentacja.png" width="650" alt="prezentacja">
 </p>
 
 ![prezentacja](https://waskiel.pl/wp-content/uploads/2019/11/pomysl-na-zdjecie-wyobraznia-i-rzemioslo.jpg.webp)
-<img title="a title" alt="Alt text" src="/assets/prezentacja.png">
+<img title="a title" alt="Alt text" src="\_posts\przentacja.png">
 
 
 
