@@ -25,6 +25,9 @@ Hostowanie + Jekyll + Komentarze + LaTeX + Jupyter + Domena + Sklonowanie
   <img src="\assets\img\prezentacja.png" width="650" alt="prezentacja">
 </p>
 
+![prezentacja](assets/img/prezentacja.png)
+
+
 
 **2. Jak wyglądały moje postępy pracy?**
 + Utworzenie konta (GitHub, GitLab, Bitbucket)
